@@ -1,0 +1,71 @@
+.card .bg-dark .text-black img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:30%;
+}
+body {
+    background-color:rgb(196, 196, 196); 
+}
+.container{
+background-color:rgb(156, 154, 154);
+}
+h5 {
+    color:rgb(196, 196, 196);
+    font-size: x-large;
+}
+p {
+    text-align: justify;
+    text-decoration-color: black;
+    font-style: oblique;
+    font-size: medium;
+}
+.cardtextt {
+    text-align: center;
+    background-color: white;
+    opacity:50%;
+    font-size:500%;
+    font-family:arial;
+    color:rgb(28, 26, 29);
+    
+}
+.mx-auto {
+    width:250px;
+    height:210px;
+}
+.btn-secondary {
+    opacity: 50%;
+    font-size: medium;
+    width:100px;
+    text-align: center;
+    color:darkred;
+    font-weight: bolder;
+}
+ .col-md-3 {
+    border-radius:5%;
+    padding:5px;
+}
+.mb-3 {
+    height:650px;
+}
+.spatiu-liber {
+height:10vh;
+} 
+
+.card-img {
+    width:100%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stick{
+    position: relative;
+    width:100%;
+    transition-property:inherit;
+    transition-duration:1s;
+}
+.stick:hover{
+    width:150%;
+    z-index: 500;
+}
