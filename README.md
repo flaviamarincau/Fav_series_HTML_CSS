@@ -1,0 +1,1 @@
+This is a small website developed with HTML and CSS, when attending a programming camp named Codeville. The website is done as proof that I understood the very basic concepts of web design. "It ain't much, but it's honest work"!!!
